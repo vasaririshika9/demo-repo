@@ -1,4 +1,4 @@
 # demo-repo
 Demo repository
 <br>
-Author-Rishika
+Author-Rishika(rishika)
